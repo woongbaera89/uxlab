@@ -6,3 +6,4 @@ cordova/node_modules/
 www/
 .DS_Store
 npm-debug.log
+errors.log
