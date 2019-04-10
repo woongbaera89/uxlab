@@ -1,0 +1,8 @@
+#node
+node_modules/
+cordova/platforms/
+cordova/plugins/
+cordova/node_modules/
+www/
+.DS_Store
+npm-debug.log
